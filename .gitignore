@@ -1,2 +1,5 @@
 /models
 *.csv
+*.pkl
+/dataset
+/.ipynb_checkpoints/
